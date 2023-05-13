@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="prompt_text">Please enter year and position</string>
+    <string name="year_prompt_text">Year: </string>
+    <string name="position_prompt_text">Position:</string>
+    <string name="positionHint">Enter the position</string>
+    <string name="yearHint">Enter the year</string>
+    <string name="resultHint">Please click on Submit. If the position is blank, it will fetch the whole standings of that year.</string>
+    <string name="submitButtonString">Submit</string>
+    <string name="resetButtonString">Reset</string>
+</resources>
